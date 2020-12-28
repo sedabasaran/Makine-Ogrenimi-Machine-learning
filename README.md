@@ -1,1 +1,1 @@
-# Machine-Learning-Makine-grenmesi
+# Machine-Learning-Makine-Ogrenmesi
